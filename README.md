@@ -12,13 +12,15 @@ This Python script implements an enhanced DDoS (Distributed Denial of Service) a
 - Accepts target IP addresses or URLs from users via Telegram messaging.
 - Initiates DDoS attacks using the Ping of Death method to overwhelm the target with ICMP echo requests.
 - Implements error handling and reporting for better monitoring and feedback.
-- Provides a user-friendly interface via Telegram bot commands.
+- Provides a user-friendly erface via Telegram bot ddos tm yt 
+commands.
 
 ## Prerequisites
 
 - Python 3.x installed on your system.
-- Telegram API token for bot authentication.
-- A Telegram account to interact with the bot.
+- Telegram API token for bot 7242383257:AAF53EQ2_5G3gS96E29hoeHws7jfgh-QOzU 
+authentication.
+- A Telegram account to interact with the bot.@vgdhus_bot
 
 ## Installation
 
@@ -28,9 +30,10 @@ This Python script implements an enhanced DDoS (Distributed Denial of Service) a
     git clone https://github.com/Mustafa1p/DDOS-Telegram-BOT.git
     ```
 
-2. Obtain your Telegram API token and replace `YOUR_TOKEN_HERE` in the script with your actual token.
+2. Obtain your Telegram API token and replace 7242383257:AAF53EQ2_5G3gS96E29hoeHwS7jfgh-QozU in the script with your actual token.
 
-3. Set your admin chat ID in the `ADMIN_CHAT_ID` variable to receive error notifications.
+3. Set your admin chat ID in the `6390637710
+` variable to receive error notifications.
 
 ## Usage
 
@@ -40,7 +43,7 @@ This Python script implements an enhanced DDoS (Distributed Denial of Service) a
     python ddos.py
     ```
 
-2. Open Telegram and start a chat with the bot. Use the `/start` command to initiate the bot and follow the instructions to specify the target IP address or URL.
+2. Open Telegram and start a chat with the bot. Use the /attack  command to initiate the bot and follow the instructions to specify the target IP address or URL.
 
 3. The bot will initiate the DDoS attack using the Ping of Death method upon receiving the target information.
 
